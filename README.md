@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mortis_666</h1>
-<h3 align="center">A normal python coder</h3>
+<h3 align="center">Random web dev</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mortis66666" alt="mortis66666" /></a> </p>
 
-- 🌱 I’m currently learning **React, Svelte, Rust, Unity**
+- 🌱 I’m currently learning **Nothing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
