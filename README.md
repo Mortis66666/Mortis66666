@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mortis_666</h1>
-<h3 align="center">Random web dev</h3>
+<h3 align="center">Problem solving enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mortis66666" alt="mortis66666" /></a> </p>
 
-- 🌱 I’m currently learning **Nothing**
+Hi, welcome to my Github page. I am a software developer with a passion for problem solving and learning new technologies. I have experience in various programming languages and frameworks, and I enjoy working on projects that challenge me to think creatively and find innovative solutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mortis_666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mortis_666" height="30" width="40" /></a>
-</p>
+On my Github, you can find:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+- Utility website projects (80% of them are abandoned)
+- Simple games, mostly written in [JavaScript](https://github.com/Mortis66666/jungle) and [Python](https://github.com/Mortis66666/Cat-vs-Rat)
+- Reasonable amount of [sudoku](https://github.com/Mortis66666/sudoku-solver-cli) [related](https://github.com/Mortis66666/Sudoku-Solver) [repos](https://github.com/Mortis66666/sudoku-wenyan)
+- Other interesting projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mortis66666&show_icons=true&locale=en&layout=compact" alt="mortis66666" /></p>
+<h3 align="left">Languages and Tools</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mortis66666&show_icons=true&locale=en" alt="mortis66666" /></p>
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,java,kotlin,rust,cpp,html,css,nodejs,jquery,p5js,svelte,mongodb,mysql,postgres,bun,express,flask,fastapi,tauri,maven,aws,heroku,vscode,sublime,godot,figma,git,github&perline=6)](https://skillicons.dev)
+
+### Support me
+
+<a href="https://buymeacoffee.com/Mortis_666" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
