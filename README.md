@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mortis_666</h1>
 <h3 align="center">Problem solving enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mortis66666" alt="mortis66666" /></a> </p>
+[![trophy](https://github-profile-trophy-cyan-three.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 Hi, welcome to my Github page. I am a software developer with a passion for problem solving and learning new technologies. I have experience in various programming languages and frameworks, and I enjoy working on projects that challenge me to think creatively and find innovative solutions.
 
